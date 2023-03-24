@@ -3,7 +3,7 @@
 #include "config_common.h"
 
 /* key matrix size */
-#define MATRIX_ROWS 5
+#define MATRIX_ROWS 4
 #define MATRIX_COLS 14
 
 /* Set 0 if debouncing isn't needed */
@@ -17,4 +17,9 @@
 #define POINTING_DEVICE_ROTATION_180
 
 /* OLED */
-#define OLED_FONT_H "keyboards/protieus/veronica/lib/glcdfont.c"
+#define OLED_FONT_H "keyboards/protieus/vimana/lib/glcdfont.c"
+
+#ifdef COMBO_ENABLE
+#    define COMBO_COUNT 6
+#    define COMBO_TERM 200
+#endif
