@@ -1,1 +1,0 @@
-Vimana QMK source codes are copied from my other beta build. Do not use it since it is not the same matrix layout. Not final. Use your own risk if you want to.
