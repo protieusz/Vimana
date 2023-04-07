@@ -17,4 +17,8 @@ Revised version 2.0 integrated switch plate case
 
 ![Screenshot 2023-03-24 at 12 08 52 AM](https://user-images.githubusercontent.com/118025702/227630992-4ed05e9f-795e-4d32-84e5-d2465fe76567.png)
 
-More Details coming soon!
+Right Half done...waiting for other half to be printed
+![IMG_8508](https://user-images.githubusercontent.com/118025702/230649849-6a157e1e-4eb0-4e13-9b31-98dc4fe3ee32.JPG)
+![IMG_8507](https://user-images.githubusercontent.com/118025702/230649870-00d8e4c1-b027-48cd-a244-e55b6012ecb3.JPG)
+![IMG_8497](https://user-images.githubusercontent.com/118025702/230649917-14b17848-4f5a-4c41-a0d3-4522dd674385.JPG)
+![IMG_8496](https://user-images.githubusercontent.com/118025702/230649922-3b26efdb-3342-4bee-996b-2625959a4d98.JPG)
