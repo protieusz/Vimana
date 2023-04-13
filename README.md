@@ -6,6 +6,10 @@ What is a Vimana? As per https://en.wikipedia.org/wiki/Vimana, it is the followi
 
 This is my interpretation of the Vimana keeb layout. BEHOLD!!! The VIMANA!
 
+PCB Rev 1.0 Ready For Print.
+![Screenshot 2023-04-13 at 12 22 59 AM](https://user-images.githubusercontent.com/118025702/231686903-3fd30b50-2571-4049-96ea-308dcd1eb7e5.png)
+
+
 Prototype
 ![Vimana3D](https://user-images.githubusercontent.com/118025702/226535520-006cd86c-0db0-4144-8505-2eb27f8657f0.jpeg)
 ![Screenshot 2023-03-20 at 11 55 06 PM](https://user-images.githubusercontent.com/118025702/226542699-0c69203b-4389-4e75-af90-2f47ca382a97.png)
