@@ -7,6 +7,8 @@ What is a Vimana? As per https://en.wikipedia.org/wiki/Vimana, it is the followi
 This is my interpretation of the Vimana keeb layout. BEHOLD!!! The VIMANA!
 
 PCB Rev 1.0 Ready For Print.
+![Screenshot 2023-04-13 at 2 09 12 PM](https://user-images.githubusercontent.com/118025702/232110208-04458349-7bbf-48c2-bc40-1f4a8c509392.png)
+![Screenshot 2023-04-13 at 2 10 14 PM](https://user-images.githubusercontent.com/118025702/232110239-2071a1d5-340e-48f4-bcac-13dc838e6008.png)
 ![Screenshot 2023-04-13 at 12 22 59 AM](https://user-images.githubusercontent.com/118025702/231686903-3fd30b50-2571-4049-96ea-308dcd1eb7e5.png)
 
 Switch plate for pcb
