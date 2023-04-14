@@ -9,11 +9,11 @@ This is my interpretation of the Vimana keeb layout. BEHOLD!!! The VIMANA!
 PCB Rev 1.0 Ready For Print.
 ![Screenshot 2023-04-13 at 12 22 59 AM](https://user-images.githubusercontent.com/118025702/231686903-3fd30b50-2571-4049-96ea-308dcd1eb7e5.png)
 
-Switch plate
+Switch plate for pcb
 
 ![Screenshot 2023-04-14 at 9 47 44 AM](https://user-images.githubusercontent.com/118025702/232106884-ed1b2383-a20b-441f-ba88-0f0b605896ca.png)
 
-Back plate
+Back plate for pcb
 
 ![Screenshot 2023-04-14 at 9 47 33 AM](https://user-images.githubusercontent.com/118025702/232106985-e7bf39ec-4772-46da-b6eb-023f0a8745b8.png)
 
@@ -25,7 +25,7 @@ Key layout
 
 ![vimanar2](https://user-images.githubusercontent.com/118025702/227630881-00700930-61c6-4cab-84d4-08321b68968f.jpg)
 
-Revised version 2.0 integrated switch plate case
+Revised version 2.0 integrated switch plate case for handwiring
 
 ![Screenshot 2023-03-24 at 12 08 52 AM](https://user-images.githubusercontent.com/118025702/227630992-4ed05e9f-795e-4d32-84e5-d2465fe76567.png)
 
