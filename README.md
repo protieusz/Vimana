@@ -19,8 +19,14 @@ Back plate for pcb
 
 ![Screenshot 2023-04-14 at 9 47 33 AM](https://user-images.githubusercontent.com/118025702/232106985-e7bf39ec-4772-46da-b6eb-023f0a8745b8.png)
 
+Meshi Trackball Module
+
+![IMG_8517](https://user-images.githubusercontent.com/118025702/232117367-93d5804c-6731-4b4d-82fb-cd306336cbdd.JPG)
+
+
 Prototype
-![Vimana3D](https://user-images.githubusercontent.com/118025702/226535520-006cd86c-0db0-4144-8505-2eb27f8657f0.jpeg)
+![Vimana3D](https://user-![IMG_8514](https://user-images.githubusercontent.com/118025702/232117468-1bd54157-45b2-46f8-96f9-6b7743a23336.JPG)
+images.githubusercontent.com/118025702/226535520-006cd86c-0db0-4144-8505-2eb27f8657f0.jpeg)
 ![Screenshot 2023-03-20 at 11 55 06 PM](https://user-images.githubusercontent.com/118025702/226542699-0c69203b-4389-4e75-af90-2f47ca382a97.png)
 
 Key layout
