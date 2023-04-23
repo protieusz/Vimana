@@ -12,6 +12,10 @@ Vimana Handwire Prototype Final
 Handwiring
 ![A5AA64C3-315C-4580-A2B7-2B00164D9C0D_1_105_c](https://user-images.githubusercontent.com/118025702/233870679-c1582acb-3619-4cfb-b50d-0a555f6dd944.jpeg)
 
+Handwiring the integrated Meshi Trackball module...the main prize
+
+![EDA0FA89-386A-4CFB-8EF6-7116BE1918E7](https://user-images.githubusercontent.com/118025702/233870794-345d1b1f-e00a-409a-b9e1-42528acc8207.jpeg)
+
 PCB Rev 1.0 Ready For Print.
 ![Screenshot 2023-04-13 at 2 09 12 PM](https://user-images.githubusercontent.com/118025702/232110208-04458349-7bbf-48c2-bc40-1f4a8c509392.png)
 ![Screenshot 2023-04-13 at 2 10 14 PM](https://user-images.githubusercontent.com/118025702/232110239-2071a1d5-340e-48f4-bcac-13dc838e6008.png)
