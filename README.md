@@ -6,6 +6,12 @@ What is a Vimana? As per https://en.wikipedia.org/wiki/Vimana, it is the followi
 
 This is my interpretation of the Vimana keeb layout. BEHOLD!!! The VIMANA!
 
+Vimana Handwire Prototype Final
+![FB61FE72-16B7-429C-976A-00293FB49413_1_105_c](https://user-images.githubusercontent.com/118025702/233870623-9a13f7c0-da63-4840-aeee-7900d6d20a9b.jpeg)
+
+Handwiring
+![A5AA64C3-315C-4580-A2B7-2B00164D9C0D_1_105_c](https://user-images.githubusercontent.com/118025702/233870679-c1582acb-3619-4cfb-b50d-0a555f6dd944.jpeg)
+
 PCB Rev 1.0 Ready For Print.
 ![Screenshot 2023-04-13 at 2 09 12 PM](https://user-images.githubusercontent.com/118025702/232110208-04458349-7bbf-48c2-bc40-1f4a8c509392.png)
 ![Screenshot 2023-04-13 at 2 10 14 PM](https://user-images.githubusercontent.com/118025702/232110239-2071a1d5-340e-48f4-bcac-13dc838e6008.png)
