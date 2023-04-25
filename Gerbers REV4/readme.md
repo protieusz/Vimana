@@ -3,7 +3,7 @@ The PCB Gerber files have not been tested nor been printed yet.  Due to budget c
 The gerbers are free for you guys to modify and print but be warn, print at your own risk and I don't accept any responsibilities. The same goes with switch plate and backplate.  No gurantee that they will fit. No support will be given. Have fun and good luck.
 
 List of Supplies needed for build:
--Elite-C mcu 
--SMD diode 0805 SOD-123
--26AWG tinned single core copper wires
--Aki's Meshi trackball modul
+`-` Elite-C mcu 
+`-` SMD diode 0805 SOD-123
+`-` 26AWG tinned single core copper wires
+`-` Aki's Meshi trackball modul
