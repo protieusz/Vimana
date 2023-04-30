@@ -9,6 +9,9 @@ This is my interpretation of the Vimana keeb layout. BEHOLD!!! The VIMANA!
 Vimana Handwire Prototype Final
 ![IMG_8632](https://user-images.githubusercontent.com/118025702/233924021-485fb41b-3c55-4f24-b30f-5d46ebb2d014.JPG)
 
+Ghetto bottom plate that needs screw adjustment. Hmm maybe the pcb bottom plate might need adjusting also
+![IMG_8676](https://user-images.githubusercontent.com/118025702/235362830-bd32fb4e-bf94-4d8c-aa7c-f4b890afee43.JPG)
+
 Handwiring
 ![A5AA64C3-315C-4580-A2B7-2B00164D9C0D_1_105_c](https://user-images.githubusercontent.com/118025702/233870679-c1582acb-3619-4cfb-b50d-0a555f6dd944.jpeg)
 
