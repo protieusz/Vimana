@@ -1,0 +1,1 @@
+The pcb file is converted from EasyEDA json file so I don't know how well it would work with KiCad.  
