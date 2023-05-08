@@ -6,6 +6,8 @@ What is a Vimana? As per https://en.wikipedia.org/wiki/Vimana, it is the followi
 
 This is my interpretation of the Vimana keeb layout. BEHOLD!!! The VIMANA!
 
+PCB version is untested and the bottom plate center Meshi trackball screw holes are off when tested during handwiring. Someone will need to use a digital caliper to fine tune the screw holes measurement.
+
 Vimana Handwire Prototype Final
 ![IMG_8632](https://user-images.githubusercontent.com/118025702/233924021-485fb41b-3c55-4f24-b30f-5d46ebb2d014.JPG)
 
